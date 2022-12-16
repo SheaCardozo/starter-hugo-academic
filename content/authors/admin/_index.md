@@ -14,21 +14,25 @@ last_name: Cardozo
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Machine Learning Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Toronto
     url: https://cs.toronto.edu/
+  - name: Tenyks
+    url: https://www.tenyks.ai/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include representation learning, deep generative modelling, and explainable AI.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Representation Learning
+  - Generative Modelling
+  - Computer Vision
+  - Explainable AI
 
 # Education to show in About widget
 education:
@@ -37,7 +41,7 @@ education:
       institution: University of Toronto
       year: 2022
     - course: BMath in Statistics
-      institution: University of Toronto
+      institution: University of Waterloo
       year: 2021
 
 # Social/Academic Networking
@@ -77,5 +81,6 @@ email: ''
 highlight_name: true
 ---
 
-Shea Carodzo is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm a Machine Learning Scientist at Tenyks, currently working in Explainable AI (XAI) in Computer Vision. I'm also a Masters of Science in Applied Computing (MScAC) Student at the University of Toronto. I am broadly interested in representation learning, particularly applied to computer vision. Subtopics of interest include self-supervised and unsupervised learning, generalization in deep learning, multimodal generative modelling, and explainable and interpretable AI.
+
 {style="text-align: justify;"}

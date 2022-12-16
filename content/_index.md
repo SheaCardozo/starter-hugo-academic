@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Shea Cardozo
 date: 2022-12-16
 type: landing
 

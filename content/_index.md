@@ -66,7 +66,7 @@ sections:
         - title: Data Scientist - Claims AI Team
           company: Intact Insurance
           company_url: 'https://www.intact.ca/'
-          company_logo: org-x
+          company_logo: org-intact
           location: Toronto, Canada
           date_start: '2020-09-01'
           date_end: '2020-12-31'
@@ -75,7 +75,7 @@ sections:
         - title: Data Scientist - Analytics
           company: Noom Inc.
           company_url: 'https://www.noom.com/'
-          company_logo: org-x
+          company_logo: org-noom
           location: New York City, US
           date_start: '2020-05-01'
           date_end: '2020-08-31'

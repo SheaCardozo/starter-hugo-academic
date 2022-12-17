@@ -12,7 +12,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: education
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Education'
@@ -25,20 +25,20 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://mscac.utoronto.ca/
           date_end: ''
           date_start: '2021-09-01'
           description: 'Data Science Concentration'
           organization: University of Toronto
-          organization_url: https://www.coursera.org
+          organization_url: https://cs.toronto.edu/
           title: Master of Science in Applied Computing
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://uwaterloo.ca/future-students/programs/statistics
           date_end: '2021-06-01'
           date_start: '2017-09-01'
           description: 'Statistics'
           organization: University of Waterloo
-          organization_url: https://www.edx.org
+          organization_url: https://uwaterloo.ca/
           title: Bachelor of Mathematics in Statistics
           url: ''
     design:

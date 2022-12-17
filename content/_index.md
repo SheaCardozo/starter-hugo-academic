@@ -41,6 +41,48 @@ sections:
           url: ''
     design:
       columns: '2'
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Machine Learning Scientist
+          company: Tenyks
+          company_url: 'https://www.tenyks.ai/'
+          company_logo: org-gc
+          location: Cambridge, UK
+          date_start: '2022-04-01'
+          date_end: ''
+          description: |2-
+            Working on the Research Team coming up with new ways to explain and evaluate Computer Vision systems.
+              
+        - title: Data Scientist - Claims AI Team
+          company: Intact Insurance
+          company_url: 'https://www.intact.ca/'
+          company_logo: org-x
+          location: Toronto, Canada
+          date_start: '2020-09-01'
+          date_end: '2020-12-31'
+          description: Used Vision and NLP techniques to automatically classify insurance documents.
+
+        - title: Data Scientist - Analytics
+          company: Noom Inc.
+          company_url: 'https://www.noom.com/'
+          company_logo: org-x
+          location: New York City, US
+          date_start: '2020-05-01'
+          date_end: '2020-08-31'
+          description: Improved food and support tracking to streamline internal processes.
+    design:
+      columns: '2'
+
   - block: collection
     id: posts
     content:

@@ -28,7 +28,7 @@ sections:
         - date_end: '2022-12-31'
           date_start: '2021-09-01'
           description: 'Data Science Concentration'
-          organization: University of Toronto
+          organization: University of Toronto - St. George
           organization_url: https://cs.toronto.edu/
           title: Master of Science in Applied Computing
           url: ''

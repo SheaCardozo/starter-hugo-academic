@@ -12,6 +12,37 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+  - block: education
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Education'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-09-01'
+          description: 'Data Science Concentration'
+          organization: University of Toronto
+          organization_url: https://www.coursera.org
+          title: Master of Science in Applied Computing
+          url: ''
+        - certificate_url: https://www.edx.org
+          date_end: '2021-06-01'
+          date_start: '2017-09-01'
+          description: 'Statistics'
+          organization: University of Waterloo
+          organization_url: https://www.edx.org
+          title: Bachelor of Mathematics in Statistics
+          url: ''
+    design:
+      columns: '2'
   - block: collection
     id: posts
     content:

@@ -56,7 +56,7 @@ sections:
         - title: Machine Learning Scientist
           company: Tenyks
           company_url: 'https://www.tenyks.ai/'
-          company_logo: org-gc
+          company_logo: org-tenyks
           location: Cambridge, UK
           date_start: '2022-04-01'
           date_end: ''

@@ -25,7 +25,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: ''
+        - date_end: '2023-03-01'
           date_start: '2021-09-01'
           description: 'Data Science Concentration'
           organization: University of Toronto

@@ -146,7 +146,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Featured Projects
       filters:
         folders:
           - project

@@ -61,7 +61,7 @@ sections:
           date_start: '2022-04-01'
           date_end: ''
           description: |2-
-            Working on the Research Team coming up with new ways to explain and evaluate Computer Vision systems.
+            Working on the Research Team to come up with new data-centric ways to explain and improve Computer Vision systems.
               
         - title: Data Scientist - Claims AI Team
           company: Intact Insurance

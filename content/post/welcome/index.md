@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Hello World!
+subtitle: Welcome 👋 to the website
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Welcome! This is the inaugeral post of my new website.
 
 # Link this post with a project
 projects: []
@@ -32,6 +32,6 @@ authors:
   - admin
 ---
 
-## Hello World!
+## Welcome!
 
-This is the inaugeral post of my new website. I hope the write more here at some point (likely focused on Deep Learning and Artificial Intelligence), but for now just welcome to the site!
+This is the inaugeral post of my new website. I hope the write more here at some point (likely focused on Deep Learning and Artificial Intelligence), but for now just welcome aboard!

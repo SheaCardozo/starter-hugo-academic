@@ -8,5 +8,6 @@ date: "2021-01-06"
 external_link: https://github.com/SheaCardozo/Adversarial-Conditional-UNET
 
 image:
+  caption: From Explaining and Harnessing Adversarial Examples by Goodfellow et al.
   focal_point: Smart
 ---

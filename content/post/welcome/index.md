@@ -3,7 +3,7 @@ title: Hello World!
 subtitle: Welcome 👋 to the website
 
 # Summary for listings and search engines
-summary: Welcome! This is the inaugeral post of my new website.
+summary: Welcome! This is the inaugural post of my new website.
 
 # Link this post with a project
 projects: []
@@ -34,4 +34,4 @@ authors:
 
 ## Welcome!
 
-This is the inaugeral post of my new website. I hope the write more here at some point (likely focused on Deep Learning and Artificial Intelligence), but for now just welcome aboard!
+This is the inaugural post of my new website. I hope the write more here at some point (likely focused on Deep Learning and Artificial Intelligence), but for now just welcome aboard!

@@ -1,6 +1,6 @@
 ---
 title: Trump Tweet Generator
-summary: I train a UNET model to generate adversarial examples on the CIFAR-10 dataset that can fool a variety of state-of-the-art classification models.
+summary: I finetune a GPT2 Model on a large dataset of Former US President Donald Trump tweets. Hilarity ensues.
 tags:
 date: "2020-01-02"
 

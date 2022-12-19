@@ -1,6 +1,6 @@
 ---
 title: Trump Tweet Generator
-summary: I finetune a GPT2 Model on a large dataset of Former US President Donald Trump tweets. Hilarity ensues.
+summary: I finetune a GPT-2 Model on a large dataset of former US President Donald Trump's tweets. Hilarity ensues.
 tags:
 date: "2020-01-02"
 

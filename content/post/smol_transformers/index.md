@@ -3,7 +3,7 @@ title: Transformer Circuits - Decomposing Small Language Models
 subtitle: Can we understand what's going in Large Language Models by dissecting small ones?
 
 # Summary for listings and search engines
-summary: An adaptation of Anthropic's paper 'A Mathematical Framework for Transformer Circuits'.
+summary: A discussion of Anthropic's paper 'A Mathematical Framework for Transformer Circuits'.
 
 # Link this post with a project
 projects: []

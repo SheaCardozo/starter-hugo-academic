@@ -32,4 +32,4 @@ authors:
   - admin
 ---
 
-This post is available [here](https://medium.com/@sheacardozo/transformer-circuits-decomposing-small-language-models-10f05c61dfd5)
+This post is available [here](https://medium.com/@sheacardozo/transformer-circuits-decomposing-small-language-models-10f05c61dfd5).

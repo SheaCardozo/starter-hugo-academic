@@ -24,7 +24,7 @@ organizations:
     url: https://www.tenyks.ai/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include representation learning, deep generative modelling, and explainable AI.
+bio: Hi! I’m a Machine Learning Scientist at Tenyks. I am broadly interested in representation learning and multimodal generative modeling.
 
 # Interests to show in About widget
 interests:

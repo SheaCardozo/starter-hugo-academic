@@ -84,6 +84,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm a Machine Learning Scientist at Tenyks, currently developing Explainable AI (XAI) methods for Computer Vision. I am broadly interested in deep representation learning in computer vision and natural language processing. Subtopics of interest include self-supervised and unsupervised learning, generalization in deep learning, multimodal generative modelling, and explainable and interpretable AI.
+Hi! I'm a Machine Learning Scientist at Tenyks, currently developing Explainable AI (XAI) methods for Computer Vision. I am broadly interested in generalization in computer vision and its applications to autonomous systems. This encompasses building 4D world models for dynamic scenes, creating robust scene representations via
+multimodal sensor fusion, and learning causal models for multi-agent behaviour prediction and planning.
 
 {style="text-align: center;"}

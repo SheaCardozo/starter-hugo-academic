@@ -37,6 +37,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: University of Waterloo
+      year: Ongoing
     - course: MSc in Applied Computing
       institution: University of Toronto
       year: 2022

@@ -25,7 +25,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: '2027-04-31'
+        - date_end: 
           date_start: '2023-09-01'
           description: 'Supervisor: Professor Krzysztof Czarnecki - Waterloo Intelligent Systems Lab'
           organization: University of Waterloo

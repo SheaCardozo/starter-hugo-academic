@@ -18,8 +18,8 @@ role: Machine Learning Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Toronto
-    url: https://cs.toronto.edu/
+  - name: University of Waterloo
+    url: https://cs.uwaterloo.ca/
   - name: Tenyks
     url: https://www.tenyks.ai/
 

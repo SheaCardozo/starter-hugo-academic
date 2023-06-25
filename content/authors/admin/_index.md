@@ -39,7 +39,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Waterloo
-      year: Ongoing
+      year: 2027
     - course: MSc in Applied Computing
       institution: University of Toronto
       year: 2022

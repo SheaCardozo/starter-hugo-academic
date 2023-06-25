@@ -84,7 +84,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm a Machine Learning Scientist at Tenyks, currently developing Explainable AI (XAI) methods for Computer Vision. I am broadly interested in generalization in computer vision and its applications to autonomous systems. This encompasses building 4D world models for dynamic scenes, creating robust scene representations via
+Hi! I'm a Machine Learning Scientist at Tenyks developing Explainable AI (XAI) methods for Computer Vision. I am broadly interested in generalization in computer vision and its applications to autonomous systems. This includes building 4D world models for dynamic scenes, creating robust scene representations via
 multimodal sensor fusion, and learning causal models for multi-agent behaviour prediction and planning.
 
 {style="text-align: center;"}

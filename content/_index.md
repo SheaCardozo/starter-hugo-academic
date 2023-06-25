@@ -182,7 +182,7 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: shea.cardozo@mail.utoronto.ca
+      email: sacardoz@uwaterloo.ca
       phone: 1-416-580-3011
       # Automatically link email and phone or display as text?
       autolink: true

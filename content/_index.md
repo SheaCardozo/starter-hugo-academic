@@ -66,7 +66,7 @@ sections:
           company_logo: org-tenyks
           location: Cambridge, UK
           date_start: '2022-04-01'
-          date_end: ''
+          date_end: '2023-08-31'
           description: |2-
             Working on the Research Team to come up with new data-centric ways to explain and improve Computer Vision systems.
               

@@ -20,8 +20,6 @@ role: Machine Learning Scientist
 organizations:
   - name: University of Waterloo
     url: https://cs.uwaterloo.ca/
-  - name: Tenyks
-    url: https://www.tenyks.ai/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hi! I’m a Machine Learning Scientist at Tenyks. I am broadly interested in representation learning and multimodal generative modeling.
@@ -84,7 +82,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm a Machine Learning Scientist at Tenyks developing Explainable AI (XAI) methods for Computer Vision. I am interested in generalization in computer vision and its applications to autonomous systems. This includes building 4D world models for dynamic scenes, creating robust scene representations via
+Hi! I'm a PhD Student in the Waterloo Intelligent Systems Lab at the University of Waterloo. I am interested in generalization in computer vision and its applications to autonomous systems. This includes building 4D world models for dynamic scenes, creating robust scene representations via
 multimodal sensor fusion, and learning causal models for multi-agent prediction and planning.
 
 {style="text-align: center;"}

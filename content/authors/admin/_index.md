@@ -82,7 +82,6 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm a PhD Student in the Waterloo Intelligent Systems Lab at the University of Waterloo. I am interested in generalization in computer vision and its applications to autonomous systems. This includes building 4D world models for dynamic scenes, creating robust scene representations via
-multimodal sensor fusion, and learning causal models for multi-agent prediction and planning.
+Hi! I'm a PhD Student in the Waterloo Intelligent Systems Lab (WISELAB) at the University of Waterloo. I am interested in generalization in computer vision and its applications to autonomous systems. This includes building sequential world models from vision and point-cloud data, creating robust representations of dynamic 4D scenes, and learning graphical models for multi-agent prediction and planning.
 
 {style="text-align: center;"}

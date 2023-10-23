@@ -1,10 +1,10 @@
 ---
 title: "CVPR 2023: Five Hidden Challenges in Autonomous Driving where Data is Key"
 
-subtitle: Can we understand what's going in Large Language Models by dissecting small ones?
+subtitle: The 5 most crucial & hidden challenges to achieve autonomous driving.
 
 # Summary for listings and search engines
-summary: The 5 most crucial & hidden challenges to achieve autonomous driving
+summary: We break down the 5 most crucial & hidden challenges to achieve autonomous driving learned from our time at CVPR 2023.
 
 # Link this post with a project
 projects: []

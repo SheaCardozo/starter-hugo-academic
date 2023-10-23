@@ -33,4 +33,4 @@ authors:
   - admin
 ---
 
-I helped co-author this blog posts along with my co-workers Gabriel Islas Montero and Dmitry Kazhdan during my time at Tenyks! THis post is available [here](https://medium.com/@tenyks_blogger/cvpr-2023-five-hidden-challenges-in-autonomous-driving-where-data-is-key-8666fff09ed7).
+I helped co-author this blog posts along with my co-workers Gabriel Islas Montero and Dmitry Kazhdan during my time at Tenyks! This post is available [here](https://medium.com/@tenyks_blogger/cvpr-2023-five-hidden-challenges-in-autonomous-driving-where-data-is-key-8666fff09ed7).

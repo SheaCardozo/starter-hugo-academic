@@ -22,7 +22,7 @@ organizations:
     url: https://cs.uwaterloo.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi! I’m a Machine Learning Scientist at Tenyks. I am broadly interested in representation learning and multimodal generative modeling.
+bio: Hi! I'm a PhD Student in the Waterloo Intelligent Systems Lab (WISELab) at the University of Waterloo. I am broadly interested in generalization in computer vision and its applications to autonomous systems. 
 
 # Interests to show in About widget
 interests:

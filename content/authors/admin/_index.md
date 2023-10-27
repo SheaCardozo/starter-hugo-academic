@@ -14,7 +14,7 @@ last_name: Cardozo
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Scientist
+role: PhD Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:

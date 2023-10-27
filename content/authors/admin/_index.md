@@ -82,7 +82,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm a PhD Student in the Waterloo Intelligent Systems Lab (WISELab) at the University of Waterloo. I am broadly interested in creating generalizable autonomous agents and systems. This encompasses model-based reinforcement learning techniques for planning and reasoning, creating robust representations of dynamic scenes, causal learning and understanding, and behaviour prediction in multi-agent scenarios.
+Hi! I'm a PhD Student in the Waterloo Intelligent Systems Lab (WISELab) at the University of Waterloo. I am broadly interested in creating generalizable autonomous agents and systems. This encompasses a wide domain of approaches such as model-based reinforcement learning techniques for planning and reasoning, causal learning and understanding, and behaviour prediction in multi-agent scenarios.
 
 
 {style="text-align: center;"}
